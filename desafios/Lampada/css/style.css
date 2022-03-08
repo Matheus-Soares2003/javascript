@@ -1,0 +1,15 @@
+section{
+    text-align: center;
+    font: normal 14pt Arial;
+}
+
+div#botao{
+    margin-top: 10px;
+    padding: 10px;
+}
+
+input{
+    padding: 7px;
+    margin: 5px;
+    width: 100px;
+}
